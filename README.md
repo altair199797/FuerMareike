@@ -1,2 +1,2 @@
 # gitlearn
-A repository for myself to learn git.
+A repository for myself to learn git. Not very important to most people I suppose. Though you might find it interesting what is coming here...
