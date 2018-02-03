@@ -1,2 +1,3 @@
-# A Github repository to learn how git works
-A repository for myself to learn git. Not very important to most people I suppose. Though you might find it interesting what is coming here...
+# Eine Website nur für meine süße Mareike <3
+Ich liebe und vermisse dich jetzt schon <3.
+Ich hoffe du kommst gut voran mit Lernen ich denk an dich <3<3
